@@ -1,7 +1,7 @@
 {
     "license_key": "license123",
-    "domain": "local.test",
-    "owner": "Juan Pérez",
+    "domain": "mvp-autos-honduras.local",
+    "owner": "David Retreage",
     "expiration_date": "2025-01-01",
     "status": "active"
   }
