@@ -1,8 +1,8 @@
 {
-    "license_key": "licensetest",
-    "domain": "mvp-autos-hondurass.local",
+    "license_key": "Licensetest",
+    "domain": "autos-honduras.local",
     "owner": "David Retreage",
     "expiration_date": "2025-01-01",
-    "status": "active"
-  }
-  
+    "status": "active",
+    "license_type": "master"
+}
