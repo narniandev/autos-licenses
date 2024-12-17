@@ -1,26 +1,29 @@
 [
     {
-    "license_key": "LicenseTest",
-    "domain": "mvp-autos-honduras.local",
-    "owner": "David Retreage",
-    "expiration_date": "2025-01-01",
-    "status": "active",
-    "license_type": "master"
+        "license_key": "NMRPKT-YTG23-K7D7T-X2JMM",
+        "domain": "mvp-autos-honduras.local",
+        "owner": "David Retreage",
+        "expiration_date": "2025-01-01",
+        "status": "active",
+        "license_type": "master",
+        "signature": "ab12cd34ef56gh78ij90klmnopqrstuv"
     },
     {
-        "license_key": "license123",
-        "domain": "local.test",
+        "license_key": "ZK34HY-89JK2-PPL43-W8V22",
+        "domain": "example-concesionario.local",
         "owner": "Juan Pérez",
         "expiration_date": "2025-01-01",
         "status": "active",
-         "license_type": "dealership"
+        "license_type": "dealership",
+        "signature": "cd56ef78gh90ab12kl34mnopqrstuvwx"
     },
     {
-        "license_key": "license456",
-        "domain": "otrodominio.com",
-        "owner": "Maria López",
+        "license_key": "PT45HU-KO98LM-R32VB-F9XZ1",
+        "domain": "local.carwash.test",
+        "owner": "María López",
         "expiration_date": "2025-12-31",
         "status": "active",
-         "license_type": "rentals"
+        "license_type": "rentals",
+        "signature": "12ab34cd56ef78gh90mnopqrstuvwxij"
     }
 ]
